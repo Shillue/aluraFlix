@@ -29,7 +29,7 @@ npm install -g json-server
 
 ## Passos para Configuração e Instalação
 - Clone o repositório do projeto:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Shillue/aluraFlix.git)
 - Navegue para o diretório do projeto clonado:
 cd seu-repositorio
 - Instale as dependências do projeto: No diretório raiz do projeto, execute o seguinte comando para instalar todas as dependências necessárias:
