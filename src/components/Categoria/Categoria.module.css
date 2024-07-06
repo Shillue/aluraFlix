@@ -1,0 +1,28 @@
+.categoria{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 12px;
+    background-color: var(--cor-fundo);
+    margin-top: 10px;
+}
+.categoria .containerCards{
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+.categoria button{
+    color: var(--cor-fonte);
+    width: 350px;
+    height: 50px;
+    padding: 1em;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin:20px 0px;
+    border-radius: 10px;
+}

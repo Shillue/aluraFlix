@@ -1,0 +1,51 @@
+.campoTexto{
+    display: flex;
+    flex-direction: column;
+    margin:24px 0px;
+    width:100%;
+}
+
+.campoTexto label{
+    margin-bottom: 8px;
+    font-size:20px;
+    color:var(--cor-fonte);
+    font-weight: 400;
+}
+
+.campoTexto input,
+.campoTexto textarea {
+    font-family: var(--fonte);
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid var(--cor-fonte);
+    box-sizing: border-box;
+    padding: 16px;
+    font-size: 20px;
+    font-weight: 400;
+    color:var(--cor-fonte);
+    margin-bottom: 20px;
+    outline:none;
+}
+
+.campoTexto input.erro,
+.campoTexto textarea.erro{
+    border-color: var(--cor-erro);
+    color: var(--cor-erro);
+}
+
+.campoTexto input::placeholder,
+.campoTexto textarea::placeholder{
+    color: var(--cor-fonte);
+}
+
+.campoTexto input.erro::placeholder,
+.campoTexto textarea.erro::placeholder{
+    color:var(--cor-erro);
+}
+
+.campoTexto input:focus,
+.campoTexto textarea:focus{
+    border-color:var(--cor-fonte);
+    color:var(--cor-fonte);
+    box-shadow: 0 0 5px var(--cor-hover);
+}

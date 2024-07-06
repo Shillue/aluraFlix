@@ -1,0 +1,18 @@
+.container{
+    display:flex;
+    align-items:center;
+    color:var(--cor-fonte);
+    justify-content:center;
+    flex-direction: column;
+}
+.container h1{
+    font-size:50px;
+    font-weight:600px;
+    margin-top:60px;
+    margin-bottom:5px;
+}
+.container p{
+    margin-bottom:5px;
+    font-size:20px;
+    font-weight:400px;
+}

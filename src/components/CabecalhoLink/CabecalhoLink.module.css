@@ -1,0 +1,30 @@
+.link, .linkActive{ 
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0.5em 1.5em;
+    width: 180px;
+    margin-left: 25px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.link{
+    color: var(--cor-fonte);
+    border: 2px solid var(--cor-fonte);
+}
+.link:hover,
+.link:focus{
+    color: var(--cor-hover);
+    border: 2px solid var(--cor-hover);
+    box-shadow: inset 1px 1px 8px 2px  var(--cor-hover)
+}
+.linkActive{
+    color: var(--cor-hover);
+    border: 2px solid var(--cor-hover);
+    box-shadow: inset 1px 1px 8px 2px  var(--cor-hover)
+}
+.linkActive:hover,
+.linkActive:focus{
+    color: var(--cor-fonte);
+    border: 2px solid var(--cor-fonte);
+    box-shadow: inset 1px 1px 8px 2px  var(--cor-fonte)
+} 

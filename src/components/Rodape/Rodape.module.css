@@ -1,0 +1,16 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--cor-cabecalhoRodape);
+    padding: 2em;
+    margin-top: 100px;
+    box-shadow: -1px -6px 10px -3px var(--cor-hover);
+}
+
+.rodape h2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--cor-fonte);
+}

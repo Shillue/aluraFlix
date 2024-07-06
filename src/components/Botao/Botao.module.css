@@ -1,0 +1,15 @@
+.botao{
+    color:var(--cor-fonte);
+    font-size:20px;
+    font-weight:600;
+    width:180px;
+    height:54px;
+    padding:10px;
+    margin-left: 20px;
+    border-radius:15px;
+    border:2px solid var(--cor-fonte);
+    /* background-color: var(--cor-fundo); */
+}
+.botao:hover, .botao:focus{
+    border:2px solid var(--cor-hover);
+}

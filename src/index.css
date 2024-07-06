@@ -1,0 +1,25 @@
+:root{
+  --fonte:'Roboto', sans-serif;
+  --cor-fonte:#FFFFFF;
+  --cor-fundo:#262626;
+  --cor-hover:#2271D1;
+  --cor-cabecalhoRodape:#000000;
+  --cor-buttonAnimacao:#6BD1FF;
+  --cor-buttonAventura:#FFBA05;
+  --cor-buttonFiccao:#00C86F;
+  --cor-erro:red;
+  --cor-formularioEditar:#03122F;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  background-color: var(--cor-fundo);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

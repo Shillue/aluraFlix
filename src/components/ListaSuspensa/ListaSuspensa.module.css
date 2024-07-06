@@ -1,0 +1,39 @@
+.listaSuspensa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100%;
+}
+.listaSuspensa label{
+    margin-bottom: 8px;
+    font-size:20px;
+    color:var(--cor-fonte);
+    font-weight: 400;
+}
+
+.listaSuspensa select{
+    background-color: var(--cor-fundo);
+    border-radius: 10px;
+    border: 2px solid var(--cor-fonte);
+    box-sizing: border-box;
+    padding: 16px;
+    font-size: 20px;
+    color:var(--cor-fonte);
+    margin-bottom: 20px;
+    outline: none;
+    width:100%;
+    max-width:100%;
+}
+
+.listaSuspensa.erro select{
+    border-color: var(--cor-erro);
+    color: var(--cor-erro);
+}
+
+.listaSuspensa select::placeholder{
+    color: var(--cor-fonte);
+}
+
+.listaSuspensa.erro section::placeholder{
+    color: var(--cor-erro);
+}

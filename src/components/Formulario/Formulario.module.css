@@ -1,0 +1,60 @@
+.formulario{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin:10px 0px;
+    width: 100%;
+    
+}
+
+.formularioEditar, .formularioNovoVideo{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    background-color:var(--cor-formularioEditar);
+    border:none;
+    padding:20px;
+    justify-content: center;
+}
+.formularioNovoVideo{
+    width:80%;
+    background-color:var(--cor-fundo);
+}
+.formularioEditar .linha{
+    width: 100%;
+}
+.formularioNovoVideo .linha{
+    width:100%;
+    display: flex;
+    gap: 20px;
+}
+.formularioNovoVideo .linhaDescricao{
+    width:50%;
+    display: flex;
+    gap: 20px;
+}
+
+.adicionarTitulo {
+    text-align: left;
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--cor-fonte);
+    border-top: 1px solid var(--cor-fonte);
+    border-bottom: 1px solid var(--cor-fonte);
+    padding: 20px 0;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.editarTitulo {
+    text-align: left;
+    color: var(--cor-hover);
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.formularioEditar.botaoContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}

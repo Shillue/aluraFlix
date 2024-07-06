@@ -1,0 +1,68 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Kung Fu Panda",
+      "categoriaNome": "Animação",
+      "linkImagem": "https://www.justwatch.com/images/backdrop/260504820/s640/temporada-1/temporada-1",
+      "linkVideo": "https://www.youtube.com/embed/40IBUnOZoC4",
+      "descricao": "Po é um panda que trabalha na loja de macarrão de sua família e anseia se tornar um mestre de kung fu. Seu desejo se realiza quando ele é escolhido para cumprir uma profecia antiga, treinando com os Cinco Furiosos, seus ídolos. "
+    },
+    {
+      "id": "2",
+      "titulo": "Divertida Mente 2ung Fu Panda",
+      "categoriaNome": "Animação",
+      "linkImagem": "https://www.opovo.com.br/_midias/jpg/2024/06/18/stkgom8uyhulpr9szljs5akmnca-27553043.jpg",
+      "linkVideo": "https://www.youtube.com/embed/yAZxx8t9zig",
+      "descricao": "Explora as emoções complexas da juventude. "
+    },
+    {
+      "id": "3",
+      "titulo": "Coraline e o Mundo Secreto",
+      "categoriaNome": "Animação",
+      "linkImagem": "https://e0.pxfuel.com/wallpapers/24/417/desktop-wallpaper-coraline.jpg",
+      "linkVideo": "https://www.youtube.com/embed/OGsGksBM-2E",
+      "descricao": "Coraline descobre uma porta secreta que contém um mundo parecido com o dela."
+    },
+    {
+      "id": "4",
+      "titulo": "Rampage: Destruição Total",
+      "categoriaNome": "Ficção Científica",
+      "linkImagem": "https://br.web.img3.acsta.net/pictures/18/04/05/19/50/5994305.jpg",
+      "linkVideo": "https://www.youtube.com/embed/12nUbFLStZQ",
+      "descricao": "Davis Okoye é um primatologista, um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento."
+    },
+    {
+      "id": "5",
+      "titulo": "Atlas",
+      "categoriaNome": "Ficção Científica",
+      "linkImagem": "https://uploads-observatoriodocinema.seox.com.br/2024/05/uQrr7b1x-atlas-netflix-1024x576.webp",
+      "linkVideo": "https://www.youtube.com/embed/KEbFBusYrsw",
+      "descricao": "Uma brilhante analista em contraterrorismo não confia em inteligência artificial, mas precisa usá-la quando a missão para capturar um robô rebelde dá errado."
+    },
+    {
+      "id": "6",
+      "titulo": "Godzilla e Kong: O Novo Império",
+      "categoriaNome": "Ficção Científica",
+      "linkImagem": "https://correio.rac.com.br/image/policy:1.1493631.1711643353:1711643353/image.jpg?w=1200&",
+      "linkVideo": "https://www.youtube.com/embed/LOIMD084NlE",
+      "descricao": "O poderoso Kong e o temível Godzilla se unem contra uma colossal ameaça mortal escondida no mundo dos humanos, que ameaça a existência de sua espécie e da nossa."
+    },
+    {
+      "id": "7",
+      "titulo": "Piratas do Caribe: O Baú da Morte",
+      "categoriaNome": "Aventura",
+      "linkImagem": "https://uploads.emaisgoias.com.br/2022/02/5b37edf3-o-bau-da-morte-960x640.jpg",
+      "linkVideo": "https://www.youtube.com/embed/ZHZu8DHWO3Q",
+      "descricao": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. "
+    },
+    {
+      "id": "8",
+      "titulo": "Ghostbusters: Apocalipse de Gelo",
+      "categoriaNome": "Aventura",
+      "linkImagem": "https://rollingstone.uol.com.br/media/_versions/ghostbusters_apocalipse_de_gelo_novo_filme_de_os_caca-fantasmas_estreia_nos_cinemas_brasileiros_foto_divulgacaosony_pictures_widelg.jpg",
+      "linkVideo": "https://www.youtube.com/embed/pjzOZCXs0oo",
+      "descricao": "Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York."
+    }
+  ]
+}

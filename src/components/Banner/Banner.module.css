@@ -1,0 +1,60 @@
+.capa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 450px;
+    color: white;
+    box-shadow: 0 7px 15px -7px var(--cor-hover), 0 -7px 15px -7px var(--cor-hover);
+    margin-bottom: 3px;
+}
+
+.elementos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.elementoTextual {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    padding:10px;
+}
+.button{
+    color: var(--cor-fonte);
+    width: 350px;
+    height: 50px;
+    padding: 1em;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin-bottom: 16px;
+    border-radius: 10px;
+}
+.elementoTextual h1{
+    font-size: 40px;
+    font-weight:400;
+    margin:5px 0px;
+}
+.elementoTextual p{
+    font-size: 20px;
+}
+.elementoVideo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.elementoVideo iframe{
+    border-radius: 20px;
+    border:4px solid;
+    transition: border 0.3s ease-in-out;
+}
