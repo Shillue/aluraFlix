@@ -14,6 +14,9 @@
 - A página Novo Vídeo tem um formulário para adicionar um novo vídeo.
 
 # Pré-visualização
+![AluraFlix pag 1 1](https://github.com/Shillue/aluraFlix/assets/86475008/9570cbd8-bd49-4898-bfea-89f01c38e7bd)
+![AluraFlix pag 1 2](https://github.com/Shillue/aluraFlix/assets/86475008/9a8ad24b-ded8-4633-aafd-568ba437f418)
+![AluraFlix pag 2](https://github.com/Shillue/aluraFlix/assets/86475008/737407f6-f8a1-4ceb-add0-fdacd2511b36)
 
 
 # Configuração
