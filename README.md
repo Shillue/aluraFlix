@@ -25,7 +25,7 @@
 Antes de começar, você precisará ter os seguintes softwares instalados no seu computador:
 - Node.js e npm (Node Package Manager): Você pode baixar e instalar a partir do site oficial Node.js. A instalação do Node.js também incluirá o npm.
 - JSON Server: Um servidor fake REST API que será usado para simular uma API para o seu projeto. Você pode instalá-lo globalmente usando npm:
-npm install -g json-server
+ npm install -g json-server
 
 ## Passos para Configuração e Instalação
 - Clone o repositório do projeto:
@@ -35,7 +35,7 @@ cd seu-repositorio
 - Instale as dependências do projeto: No diretório raiz do projeto, execute o seguinte comando para instalar todas as dependências necessárias:
 npm install
 - Inicie o JSON Server: No diretório raiz do projeto, execute o comando:
-json-server --watch db.json --port 5000
+json-server --watch src/json/db.json --port 5000
 - Inicie o projeto React: Em uma nova aba ou janela do terminal, inicie o servidor de desenvolvimento do React:
 npm start
 
